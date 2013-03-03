@@ -106,6 +106,8 @@ Description: nginx web/proxy server (standard version)
  THIRD PARTY MODULES: Auth PAM, DAV Ext, Echo, Upstream Fair Queue.
  .
  MODULES ADDED BY DOTDEB : File AIO, Secure link, Syslog, Cache purge, Pinba,
+ .
+ MODULES ADDED BY DOUG W : Mysql Auth
  HTTP substitution filter
 
 Package: nginx-full-dbg

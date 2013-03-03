@@ -1,3 +1,9 @@
+nginx (1.2.7-1~dougw.1) stable; urgency=medium
+
+  * Added nginx_auth_mysql
+
+ -- Doug Warren <doug.warren@gmail.com>  Sun, 03 Mar 2013 06:54:58 -0800
+
 nginx (1.2.7-1~dotdeb.1) stable; urgency=medium
 
   * New upstream release. Closes #14

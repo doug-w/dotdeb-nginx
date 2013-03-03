@@ -109,6 +109,7 @@ config.status.full: config.env.full config.sub config.guess
 	    --add-module=$(MODULESDIR)/nginx-cache-purge \
 	    --add-module=$(MODULESDIR)/ngx_http_pinba_module \
 	    --add-module=$(MODULESDIR)/ngx_http_substitutions_filter_module \
+	    --add-module=$(MODULESDIR)/nginx_auth_mysql \
             $(CONFIGURE_OPTS) >$@
 	touch $@
 
