@@ -40,3 +40,6 @@
 [submodule "debian/modules/ngx_http_substitutions_filter_module"]
 	path = debian/modules/ngx_http_substitutions_filter_module
 	url = git://github.com/yaoweibin/ngx_http_substitutions_filter_module.git
+[submodule "debian/modules//nginx_auth_mysql"]
+	path = debian/modules/nginx_auth_mysql
+	url = git://github.com/doug-w/nginx_auth_mysql.git
